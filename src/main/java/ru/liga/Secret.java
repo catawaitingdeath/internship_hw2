@@ -15,7 +15,7 @@ public class Secret {
     }
 
     private String branch1Secret() {
-        return "none";
+        return branch1;
     }
 
     private String branch2Secret() {
