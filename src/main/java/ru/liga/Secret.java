@@ -19,6 +19,6 @@ public class Secret {
     }
 
     private String branch2Secret() {
-        return "none";
+        return branch2;
     }
 }
